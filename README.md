@@ -23,11 +23,11 @@
 
 🔭&nbsp; I’m currently working on Front end projects \
 
-- 🌱&nbsp; I’m currently learning Web Development and Data Structures, Algorithms \
+🌱&nbsp; I’m currently learning Web Development and Data Structures, Algorithms \
 
-- 👯&nbsp; I’m looking to collaborate on Open Source projects, projects related to web development \
+👯&nbsp; I’m looking to collaborate on Open Source projects, projects related to web development \
 
-- 💬&nbsp; Talk to me about Java, JavaScript, React, Front End, Freelancing Opportunities, Open Source 
+💬&nbsp; Talk to me about Java, JavaScript, React, Front End, Freelancing Opportunities, Open Source 
 
 
 
