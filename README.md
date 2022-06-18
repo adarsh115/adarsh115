@@ -1,6 +1,6 @@
 
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px height = 30px> 👩🏾‍💻 </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px height = 20px> 👩🏾‍💻 </h1>
 
 <p align='center'>
 
