@@ -11,8 +11,11 @@
 </div>
 
 
+## 👨🏻‍💻 &nbsp;About Me
 
-<h2> About Me  <img width="30px"  height = "30px" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" > </h2>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+<!-- <h2> About Me </h2> -->
 
 <br/>
 <br/>
