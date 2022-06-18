@@ -76,4 +76,4 @@
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+<footer align='center'>CHECK OUT MY PORTFOLIO --> <a href='https://meadarshkumar.netlify.app/'><span style = "color: firebrick"><em>meadarsh</em></span></a> </footer>
