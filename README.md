@@ -16,7 +16,10 @@
 
 
 <h2> About Me  </h2>
-<!-- <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" align="left"  width="100px"  height = "100px" margin-bottom = "10px"> -->
+<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" align="left"  width="100px"  height = "100px" margin-bottom = "10px">
+
+<br/>
+<br/>
 
 
 <img width="45%"  height = "350px" align="right" src="https://github.com/adarsh115/adarsh115/blob/main/media/mygif.gif" alt="cover" />
