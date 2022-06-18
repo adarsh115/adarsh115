@@ -14,7 +14,7 @@
 
 
 
-<h1> About me <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width = 20px height = 26px></h1>
+<h2> About me <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width = 20px height = 26px></h2>
 <!-- <h2> About Me </h2> -->
 
 <br/>
