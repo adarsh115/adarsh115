@@ -76,4 +76,4 @@
 
 
 <br>
-<footer align='center'>CHECK OUT MY PORTFOLIO --> <a href='https://meadarshkumar.netlify.app/'><span style = "color: firebrick"><em>meadarsh</em></span></a> </footer>
+<footer align='center'>CHECK OUT MY PORTFOLIO --> <a href='https://meadarshkumar.netlify.app/' target = "_blank"><em>meadarsh</em></a> </footer>
