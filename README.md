@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img width="100%" height = "550px" src="https://github.com/adarsh115/adarsh115/blob/main/media/mygif.gif" alt="cover" />
-</div>
+</div> -->
 
 <h1> Hello Fellow < Developers/ >! 👋🏾 👩🏾‍💻 </h1>
 <p align='center'>
@@ -13,7 +13,11 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<div align="right">
+<img width="100%" height = "550px" src="https://github.com/adarsh115/adarsh115/blob/main/media/mygif.gif" alt="cover" />
+</div>
+
+<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
 
 - 🔭 I’m currently working on Front end projects 
