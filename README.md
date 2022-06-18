@@ -1,5 +1,5 @@
 <p align="center">
- <img  width="800" height="800" src="https://github.com/adarsh115/adarsh115/blob/main/Hello%20Devs%2C%20I%20am%20Adarsh%20Kumar.gif">
+ <img  width="800" height="700" src="https://github.com/adarsh115/adarsh115/blob/main/Hello%20Devs%2C%20I%20am%20Adarsh%20Kumar.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Adarsh Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
