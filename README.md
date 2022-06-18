@@ -19,7 +19,7 @@
 &nbsp;
 
 
-<img width="45%"  height = "400px" align="right" src="https://github.com/adarsh115/adarsh115/blob/main/media/mygif.gif" alt="cover" />
+<img width="48%"  height = "400px" align="right" src="https://github.com/adarsh115/adarsh115/blob/main/media/mygif.gif" alt="cover" />
 
 🎓 &nbsp;I'm have completed my bachelor of technology from Dellhi Technological University, Delhi, India. \
 
