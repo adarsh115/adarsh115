@@ -21,16 +21,21 @@
 
 <img width="45%"  height = "350px" align="right" src="https://github.com/adarsh115/adarsh115/blob/main/media/mygif.gif" alt="cover" />
 
-🔭&nbsp; I’m currently working on Front end projects \
+🎓 &nbsp;I'm have completed my bachelor of technology from Dellhi Technological University, Delhi, India.
+💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring Dart/Flutter.\
+🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
+✉️ You can shoot me an email at tanyarajhans7@gmail.com! I'll try to respond as soon as I can.
 
-🌱&nbsp; I’m currently learning Web Development and Data Structures, Algorithms \
+🔭&nbsp; Currently, I am exploring web development. So far I have enjoyed working with HTML, CSS, Javascript, ReactJS and other front end related tech stacks. \
 
-👯&nbsp; I’m looking to collaborate on Open Source projects, projects related to web development \
+🏋️&nbsp; Training my brain to solve real life problems using data structures and algorithm @leetcode \
 
-💬&nbsp; Talk to me about Java, JavaScript, React, Front End, Freelancing Opportunities, Open Source 
+🌱&nbsp; I'm looking forward to learning more about Cross-Platform Development, Systems Design, Web3, blockchain and Algorithms.\
 
-<br />
-<br/>
+💬&nbsp; Feel free to connect with me on socials or email me @ kadarsh115@gmail.com. Talk to me about Data Structures, Web Developmnet, Front End Development, UI/UX Freelancing Opportunities and projects, Open Source projects, Blockchain, CryptoCurrency, Trading and Investing.
+
+
+
 <br />
 <br/>
 
