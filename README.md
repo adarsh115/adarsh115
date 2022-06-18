@@ -9,7 +9,6 @@
 <div size='20px'> Hi! My name is Adarsh Kumar. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<div size = '50px'>
 
 
 
@@ -18,7 +17,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" align="left"  width="100px"  height = "100px"> </h2>
 
-<div size = '300px>
+<div size = '30px>
 
 <img width="45%"  height = "350px" align="right" src="https://github.com/adarsh115/adarsh115/blob/main/media/mygif.gif" alt="cover" />
 
