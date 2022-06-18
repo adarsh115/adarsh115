@@ -2,7 +2,7 @@
 <img width="100%" height = "550px" src="https://github.com/adarsh115/adarsh115/blob/main/media/mygif.gif" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ ></h1> 👋🏾 👩🏾‍💻
+<h1> Hello Fellow < Developers/ >! 👋🏾 👩🏾‍💻 </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=adarsh115.adarsh115)
